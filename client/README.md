@@ -1,4 +1,4 @@
-## Getting Started
+## Getting Started 
 
 This project is a Next.js app that uses TypeScript, React, and Tailwind CSS. It is a web application that allows users to interact with the blockchain and perform various actions such as borrowing, lending, and trading.
 

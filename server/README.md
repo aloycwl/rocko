@@ -1,6 +1,5 @@
 ## Environment variables
 - [CLIENT_URL] : Client Website URL `http://localhost:3000` or `https://app.rocko.co`
-
 - [VPNAPI_KEY] : Vpn apikey
 
 - [MAILCHIMP_API_KEY] : Mailchimp API key
