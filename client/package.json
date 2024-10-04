@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "NODE_OPTIONS='--max-old-space-size=4096' next dev",
     "build": "next build",
     "wipeout": "rm -rf yarn.lock node_modules .next && yarn cache clean && yarn && yarn build",
-    "start": "next start",
+    "start": "NODE_OPTIONS='--max-old-space-size=4096' next start",
     "lint": "next lint",
     "eslint": "eslint .",
     "eslint:fix": "eslint . --fix"
